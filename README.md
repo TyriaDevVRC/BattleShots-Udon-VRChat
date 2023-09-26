@@ -1,8 +1,8 @@
 Battleshots By TyriaDev
 
-![6b4fea75-18b6-489b-b699-c586f158c0aa_base_resized](https://github.com/TyriaDevVRC/BattleShots-Udon-VRChat/assets/146109170/9b34f4d5-0eb0-44b5-9160-b7f345543b49)
-![1908e45f-31ee-4824-959d-1b56412cadcd_base_resized](https://github.com/TyriaDevVRC/BattleShots-Udon-VRChat/assets/146109170/a52fb09e-50c6-4fea-a66d-7a1d92286e74)
-![5b46cbcf-d696-41bb-ba42-43c167ddf2ce_base_resized](https://github.com/TyriaDevVRC/BattleShots-Udon-VRChat/assets/146109170/8ad93b0f-c827-49f9-8c65-1f0ab9241252)
+<img src="https://github.com/TyriaDevVRC/BattleShots-Udon-VRChat/assets/146109170/9b34f4d5-0eb0-44b5-9160-b7f345543b49" width="400" height="250"/>
+<img src="https://github.com/TyriaDevVRC/BattleShots-Udon-VRChat/assets/146109170/a52fb09e-50c6-4fea-a66d-7a1d92286e74" width="200" height="250"/>
+<img src="https://github.com/TyriaDevVRC/BattleShots-Udon-VRChat/assets/146109170/8ad93b0f-c827-49f9-8c65-1f0ab9241252" width="200" height="250"/>
 
 Requires UdonSharp + TMP Essentials  
 Developed using UdonSharp v1.1.8.
